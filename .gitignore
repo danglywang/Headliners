@@ -2,3 +2,4 @@
 .venv
 *.prproj
 *.psd
+node_modules
